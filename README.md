@@ -1,2 +1,2 @@
 # MachineLearning-Beginner
-100 Beginner Machine Learning Project 
+100 day Beginner Machine Learning Project 
